@@ -17,6 +17,8 @@ You'll be coding your solution in `js/playlister.js`. You'll want to have `index
 
 + **Step 4:** If a user selects to delete a song, they should be prompted to enter a song title to delete. The song should then be removed from the `playlist` array.
 
++ **Step 5:** Every time a user adds a song or deletes a song from the playlist, they should receive an alert that lists all the songs on their playlist.
+
 
 **BONUS**
 + Add an `alert` if a user tries to delete a song that isn't on the Playlist
