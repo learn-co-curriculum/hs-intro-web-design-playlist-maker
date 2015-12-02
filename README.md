@@ -28,3 +28,4 @@ You'll be coding your solution in `js/playlister.js`. You'll want to have `index
 **DOUBLE BONUS**
 
 + We haven't covered functions in this class, but see if you can compartmentalize the code into functions. Remember, each function should do one thing and one thing only (i.e: an addSong function, a deleteSong function etc,)
+<a href='https://learn.co/lessons/hs-intro-web-design-playlist-maker' data-visibility='hidden'>View this lesson on Learn.co</a>
